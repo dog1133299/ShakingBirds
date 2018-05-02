@@ -1,6 +1,8 @@
 # ShakingBirds
 Shaking effects with Birds in pure CSS
 
+![ShakingBirds](src/ShakingBirds.gif)
+
 See it at : https://dog1133299.github.io/ShakingBirds/
 
 Reference:
